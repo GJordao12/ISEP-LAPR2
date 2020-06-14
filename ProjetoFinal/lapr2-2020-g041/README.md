@@ -1,10 +1,10 @@
 # README #
 
-*1º: After running the project, enter as adm@lapr.pt with the password 123456.
-*2º: Create as many Organizations as you like in the Administrator window.
-*3º: Go to Files\e-mails.txt.
-*4º: Enter with the mail and password assigned in the mail.
-*5º: Experience all the possibilities of our work.
+* 1º: After running the project, enter as adm@lapr.pt with the password 123456.
+* 2º: Create as many Organizations as you like in the Administrator window.
+* 3º: Go to Files\e-mails.txt.
+* 4º: Enter with the mail and password assigned in the mail.
+* 5º: Experience all the possibilities of our work.
 
 This repository contains didactic artifacts related to the project developed in the Curricular Unit (UC) of Software Engineering (ESOFT) 2019-2020 edition of [Degree in Computer Engineering (LEI)](http://www.isep.ipp.pt/Course/Course/26) do [Higher Engineering Institute of Porto (ISEP)](http://www.isep.ipp.pt).
 
