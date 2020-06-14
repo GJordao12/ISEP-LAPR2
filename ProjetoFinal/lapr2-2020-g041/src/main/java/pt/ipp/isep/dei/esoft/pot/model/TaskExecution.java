@@ -21,7 +21,7 @@ public class TaskExecution implements Serializable {
      *
      * @param taskEnd      the task end
      * @param taskDelay    the task delay
-     * @param taskDescWork the task desc work
+     * @param taskDescWork the task description work
      */
     TaskExecution(LocalDate taskEnd, String taskDelay, String taskDescWork) {
         setEnd(taskEnd);
