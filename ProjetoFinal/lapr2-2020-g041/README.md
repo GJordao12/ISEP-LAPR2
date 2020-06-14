@@ -1,5 +1,7 @@
 # README #
 
+### Tutorial
+
 * 1º: After running the project, enter as adm@lapr.pt with the password 123456.
 * 2º: Create as many Organizations as you like in the Administrator window.
 * 3º: Go to Files\e-mails.txt.
