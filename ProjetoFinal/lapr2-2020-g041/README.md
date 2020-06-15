@@ -8,6 +8,8 @@
 * 4º: Enter with the mail and password assigned in the mail.
 * 5º: Experience all the possibilities of our work.
 
+----------------------------------------------------------------------------------------------------------------------------------------
+
 This repository contains didactic artifacts related to the project developed in the Curricular Unit (UC) of Software Engineering (ESOFT) 2019-2020 edition of [Degree in Computer Engineering (LEI)](http://www.isep.ipp.pt/Course/Course/26) do [Higher Engineering Institute of Porto (ISEP)](http://www.isep.ipp.pt).
 
 In particular, it contains:
