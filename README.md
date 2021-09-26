@@ -1,4 +1,4 @@
-# ISEP - LAPR2 (1º ANO - 2º SEMESTRE)
-* Linguagem: Java
-* Projetos e Trabalhos de LAPR2 da Universidade
-* Ano: 2020
+# ISEP - LAPR2 (1º YEAR - 2º SEMESTER)
+* Language: Java
+* University LAPR2 Projects and Works
+* Year: 2020
