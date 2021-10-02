@@ -1,4 +1,4 @@
-# UC6 - Make Automatic Payment
+# UC7 - Load Transactions File
 
 ## 1. Requirements Engineering
 
