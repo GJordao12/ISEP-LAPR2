@@ -1,4 +1,4 @@
 # ISEP - LAPR2 (1º YEAR - 2º SEMESTER)
-* Language: Java and JavaFX Script
-* University LAPR2 Projects and Works
-* Year: 2020
+* University LAPR2 **Projects** and **Works** - Java Application to hire Freelancers and make payments to them
+* **Languages and Tools:** Java and JavaFX
+* **Year:** 2020
