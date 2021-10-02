@@ -1,4 +1,4 @@
-# Glossário
+# Glossary
 
 **Terms must be sorted alphabetically**
 
